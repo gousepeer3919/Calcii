@@ -8,8 +8,4 @@ public class Main {
         // IntelliJ IDEA suggests fixing it.
         System.out.print("Hello and welcome!");
     }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 7150e9db2e92eb164352a9855476a291633e5cb3
